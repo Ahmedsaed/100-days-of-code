@@ -4,7 +4,7 @@
 
 | Round 1 |
 | --- | 
-| this log | 
+| [this log](https://github.com/Ahmedsaed/100-days-of-code/tree/main#code-log) | 
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
