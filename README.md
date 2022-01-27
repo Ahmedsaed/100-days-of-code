@@ -49,5 +49,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 2: January 27, 2022
+**Today's Progress**: I completed egyptfwd web development challenger course and earned a certificate.  
+**Link to certificate**: [click me](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/bbffb7c5-f0c6-4dea-a88e-8dea485ca9c7.pdf)
+
 ### Day 1: January 26, 2022
 **Today's Progress**: I completed lectures 2,3,4,5 in egyptFWD web development course and learned a lot about CSS
