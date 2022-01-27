@@ -23,6 +23,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: [Advent of Code](https://adventofcode.com), [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam), [FreeCodeCamp](https://www.freecodecamp.org/) ...
 - [ ] Complete as many courses: Coursera, udemy, udacity ...
+- [ ] Make some youtube videos about coding
+- [ ] Get familiar with web3
 
 ## Projects and Ideas
 
