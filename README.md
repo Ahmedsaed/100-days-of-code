@@ -41,13 +41,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-## 1.
 ### Day 1: January,10 2017 - Saturday
 **Project:**
 **Progress:**
 **Thoughts:**
 **Link to Work:**
 -->
+
+### Day 3: January 28, 2022
+**Today's Progress**: 
+- I learned some video editing 
+- Started using Notion to imporve my workflow and clarity of mind
 
 ### Day 2: January 27, 2022
 **Today's Progress**: I completed egyptfwd web development challenger course and earned a certificate.  
