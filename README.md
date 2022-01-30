@@ -48,6 +48,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 4&5: January,29-30 2022
+**Project:** Check 19
+**Thoughts:** I attended CUHackit 2022 Hackathon and built a website with my teammates, it was a wonderful experience
+**Website Link:** https://ahmedsaed.me/CUHackIt-2022
+**Repo Link:** https://github.com/Ahmedsaed/cuhackit-2022
+
 ### Day 3: January 28, 2022
 **Today's Progress**: 
 - I learned some video editing 
