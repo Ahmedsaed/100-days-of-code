@@ -22,7 +22,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Secondary Goals & Resources
 
 - [ ] Complete as many coding challenges as possible: [Advent of Code](https://adventofcode.com), [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam), [FreeCodeCamp](https://www.freecodecamp.org/) ...
-- [ ] Complete as many courses: Coursera, udemy, udacity ...
+- [ ] [Current Progress: 1] Complete as many courses: Coursera, udemy, udacity ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 
@@ -51,8 +51,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 4&5: January,29-30 2022
 **Project:** Check 19
 **Thoughts:** I attended CUHackit 2022 Hackathon and built a website with my teammates, it was a wonderful experience
-**Website Link:** https://ahmedsaed.me/CUHackIt-2022
-**Repo Link:** https://github.com/Ahmedsaed/cuhackit-2022
+**Website Link:** https://ahmedsaed.me/CUHackIt-2022  
+**Repo Link:** https://github.com/Ahmedsaed/cuhackit-2022  
 
 ### Day 3: January 28, 2022
 **Today's Progress**: 
