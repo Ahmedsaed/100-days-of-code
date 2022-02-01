@@ -25,6 +25,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] [Current Progress: 1] Complete as many courses: Coursera, udemy, udacity ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
+- [ ] Practice touch typing for 30 days
 
 ## Projects and Ideas
 
