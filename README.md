@@ -22,10 +22,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Secondary Goals & Resources
 
 - [ ] Complete as many coding challenges as possible: [Advent of Code](https://adventofcode.com), [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam), [FreeCodeCamp](https://www.freecodecamp.org/) ...
-- [ ] [Current Progress: 1] Complete as many courses: Coursera, udemy, udacity ...
+- [ ] [Current Progress: 2] Complete as many courses: Coursera, udemy, udacity ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
-- [ ] Practice touch typing for 30 days
+- [ ] [Current Progress: 2] Practice touch typing for 30 days
 
 ## Projects and Ideas
 
@@ -49,7 +49,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
-### Day 4&5: January,29-30 2022
+### Day 6&7&8: January 31 - February 2, 2022
+**Progress**: I completed egyptfwd Data Analysis challenger course and earned a certificate.  
+**Certificate**:   
+<img src="https://github.com/Ahmedsaed/100-days-of-code/blob/main/Assets/EgyptFWD%20Data%20Analysis%20Challenger%20.png" height="300em">
+
+### Day 4&5: January 29-30, 2022
 **Project:** Check 19  
 **Thoughts:** I attended CUHackit 2022 Hackathon and built a website with my teammates, it was a wonderful experience   
 **Website Link:** https://ahmedsaed.me/CUHackIt-2022  
