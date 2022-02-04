@@ -52,7 +52,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
-### Day 9: February 9, 2022
+### Day 10: February 4, 2022
+**Progress:**
+- I enrolled in a CSS crash course 
+- I also solved  some advent of code puzzles 
+
+**Thoughts:** I originally wanted to take a course on web3, however in the first lecture of the course there was a recommendation about a another frontend course in Scimba (like a pre-request).  
+
+The moment I entered the Scimba website, I fell in love with it and decided to take a couple more courses on web-development.     
+
+So. Here I am enrolled in a crash course on HTML and CSS and planning to take 3 more courses (the first on JavaScript, the second on EC6, and the last on ReactJS)  
+
+
+### Day 9: February 3, 2022
 **Project:** Photo Editor Website
 **Progress:** 
 - Fixed lots of bugs and added full support for small screens
