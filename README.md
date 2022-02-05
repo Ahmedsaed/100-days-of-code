@@ -25,10 +25,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [Advent of Code](https://adventofcode.com)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
-- [ ] [Current Progress: 2] Complete as many courses: Coursera, Udemy, Udacity ...
+- [ ] [Current Progress: 3] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
-- [ ] [Current Progress: 2] Practice touch typing for 30 days
+- [ ] [Current Progress: 3] Practice touch typing for 30 days
 
 ## Projects and Ideas
 
@@ -51,6 +51,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 **Link to Work:**
 -->
+
+### Day 11: February 5, 2022
+**Progress:**
+- Completed the CSS crash course that I started on Day 10
+- Enrolled in a 7-hour JS course (on Scimba) and completed it (Because I was familiar with about 50% of the course material)
+- Enrolled in a 1-hour EC6 course (on Scimba) and completed it
+
+**Thoughts:** I really like the Scimba website, it makes learning much more easy and fun  
 
 ### Day 10: February 4, 2022
 **Progress:**
