@@ -52,6 +52,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 12: February 6, 2022
+**Progress:** 
+- Enrolled in a ReactJS course (on Scrimba)
+- Solved some advent of code   
+
 ### Day 11: February 5, 2022
 **Progress:**
 - Completed the CSS crash course that I started on Day 10
