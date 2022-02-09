@@ -51,16 +51,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 **Link to Work:**
 -->
+
+
+
 ### Day 14: February 8, 2022
 **Progress:** 
 - Enrolled in Google UX Design course 1 (on Coursera)
 - Enrolled in Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (on Coursera)
-- Solved 2015/Day 5 in AOC
+- Solved 2015/Day 5 in AOC 
+
 **Thoughts:** Well, I applied for a financial aid for the mentioned courses and got approved. Very excited to complete these courses
 
 
 ### Day 13: February 7, 2022
-**Thoughts:** I didn't achieve a lot of progress in this day. I kinda took a break. (I did code for at least 1 hour for the challenge)   
+**Thoughts:** I didn't achieve a lot of progress in this day. I kinda took it as a break. (I did code for at least 1 hour for the challenge)   
 
 ### Day 12: February 6, 2022
 **Progress:** 
