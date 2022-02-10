@@ -52,6 +52,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 15,16: February 9-10, 2022
+**Project:** Computer Vision - Object Classification   
+
+**Progress:**
+- Completed Week 1 in Deep Learning specialization Course 2
+- Followed some tutorials about Object Classification   
+
+**Thoughts:** I am very intersted in computer vision and it's capabilities  
+
+**Link to Work:** [Demo](https://github.com/Ahmedsaed/Computer-Vision/tree/master/MobileNet%20v3#object-detection)
 
 
 ### Day 14: February 8, 2022
