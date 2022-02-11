@@ -52,6 +52,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 17: February 11, 2022
+**Project:**  
+- Personal Card in ReactJS
+
+**Progress:**  
+- Completed the first section in a ReactJS course (on Scrimba)
+
+**Thoughts:** I think react is a very interesting library, it's very useful and easy
+**Work:**  
+<img src="https://user-images.githubusercontent.com/37080003/153667341-c44c4e4c-00f7-4050-9ccb-dcad12a4b836.png" width="500em"/>
+    
+
 ### Day 15,16: February 9-10, 2022
 **Project:** Computer Vision - Object Classification   
 
