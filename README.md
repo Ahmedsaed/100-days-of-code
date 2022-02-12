@@ -51,6 +51,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 **Link to Work:**
 -->
+### Day 18: February 12, 2022
+**Progress:**
+- Completed a Python Course (on Kaggle)
+
+**Thoughts:** Kaggle is a wonderful website to learn machine learning and data science. I am really looking forward to complete all the courses on there website and solve as many challenges as possible   
+
+**Certificate:**   
+<img src="https://user-images.githubusercontent.com/37080003/153722726-b6a478e0-b4e3-4543-8614-469aa6ed96b7.png" width="500em"/>
+
 
 ### Day 17: February 11, 2022
 **Project:**  
@@ -60,7 +69,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Completed the first section in a ReactJS course (on Scrimba)
 
 **Thoughts:** I think react is a very interesting library, it's very useful and easy   
-**Work:**  
+**Certificate:**  
 <img src="https://user-images.githubusercontent.com/37080003/153667341-c44c4e4c-00f7-4050-9ccb-dcad12a4b836.png" width="500em"/>
     
 
