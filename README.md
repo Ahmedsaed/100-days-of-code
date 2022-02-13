@@ -25,7 +25,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [Advent of Code](https://adventofcode.com)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
-- [ ] [Current Progress: 5] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current Progress: 6] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
