@@ -45,12 +45,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 1: February 10, 2022
+### Day 2: February 10, 2022
 **Project:**
 **Progress:**
 **Thoughts:**
 **Link to Work:**
 -->
+### Day 19: February 13, 2022
+**Progress:**
+- Made some progress in week 2 | course 2 deep learning specialization
+- Solved 2015 Day 8 part 1&2 in AOC
+**Thoughts:** Advent of code puzzels seems at first very simple but in reality it's has lots of tricks
+
 ### Day 18: February 12, 2022
 **Progress:**
 - Completed a Python Course (on Kaggle)
