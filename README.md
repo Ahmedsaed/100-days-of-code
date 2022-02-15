@@ -51,6 +51,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 **Link to Work:**
 -->
+
+### Day 21: February 15, 2022
+**Progress:**
+
+- Made some progress in google kick start coding practice 1
+
+**Thoughts:** I spent the whole day trying to optimize my solutions or come up with a better ones. it seems that there is still a lot to learn to be prepared for this competition   
+
+### Day 20: February 14, 2022
+**Progress:**  
+
+- Completed week 2 in deep learning specialization course 2
+- solved day 7 in AOC
+- Solved 2 problems in google kick start coding practice 1
+   
+**Thoughts:** I am really surprised by the problems in kick start, it doesn't just focus on problem solving skills but it also heavily relied on algorithms and data structures.  
+You don't just have to come up with a solution, instead you need to come up with a very optimized solution  
+
 ### Day 19: February 13, 2022
 **Progress:**
 - Made some progress in week 2 | course 2 deep learning specialization
