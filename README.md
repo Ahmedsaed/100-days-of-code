@@ -25,7 +25,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [Advent of Code](https://adventofcode.com)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
-- [ ] [Current Progress: 6] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current Progress: 7] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -47,10 +47,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 <!--
 ### Day 2: February 10, 2022
 **Project:**
+
 **Progress:**
+
+-
+
 **Thoughts:**
+
 **Link to Work:**
 -->
+
+### Day 22: February 16, 2022
+**Progress:**
+
+ - Completed Course 2 in Deep learning specialization (on Coursera)
+ - Completed week 2 in Google Foundations of User Experience (UX) Design course
+ - Made some progress in a machine learning course on kaggle
+
+**Thoughts:** I am very excited to apply the knowledge I gained from machine learning courses in real world solutions  
+
+**Certificate:**   
+<a href="https://www.coursera.org/account/accomplishments/certificate/PKWGYMF9DYCK"><img src="https://user-images.githubusercontent.com/37080003/154357109-8fe617dc-be12-4115-9ef6-b384a0a0f8a6.png" width="500em" /></a>
+
 
 ### Day 21: February 15, 2022
 **Progress:**
@@ -93,7 +111,8 @@ You don't just have to come up with a solution, instead you need to come up with
 - Completed the first section in a ReactJS course (on Scrimba)
 
 **Thoughts:** I think react is a very interesting library, it's very useful and easy   
-**Certificate:**  
+
+**Project:**  
 <img src="https://user-images.githubusercontent.com/37080003/153667341-c44c4e4c-00f7-4050-9ccb-dcad12a4b836.png" width="500em"/>
     
 
