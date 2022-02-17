@@ -57,6 +57,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
 -->
 
+### Day 23: February 17, 2022
+**Progress:**
+
+- Completed one more problem in Kick start session 1
+- Made some progress in the last problem (But still can't figure it out)
+
+**Thoughts:**  I am mentally exhausted as I spent most of the day trying to solve these problems. So, no thoughts for today
+
 ### Day 22: February 16, 2022
 **Progress:**
 
