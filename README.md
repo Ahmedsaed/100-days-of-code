@@ -25,7 +25,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [Advent of Code](https://adventofcode.com)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
-- [ ] [Current Progress: 7] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current Progress: 8] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -56,6 +56,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**
 -->
+
+
+### Day 24: February 18, 2022
+**Progress:**
+
+- Completed Intro to machine learning course on Kaggle
+- Made progress in Intro to AI and RL course on Kaggle
+
+**Thoughts:** Currently. I am trying to focus on reinforcement learning to be prepared for Dell HackTrick
+
+**Certificate:**   
+<img src="https://user-images.githubusercontent.com/37080003/154754468-16905092-7e8c-486b-b11d-628cfe500690.png" width="500em" />
 
 ### Day 23: February 17, 2022
 **Progress:**
