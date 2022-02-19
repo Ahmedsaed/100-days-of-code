@@ -54,8 +54,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Thoughts:**
 
-**Link to Work:**
+**Link to Work:**    
 -->
+
+### Day 25: February 19, 2022
+**Progress:**
+
+- Completed intro to AI and Rl course on Kaggle
+
+**Thoughts:** TODO
+
+**Certificate:**   
+<img src="https://user-images.githubusercontent.com/37080003/154820040-f255bc96-afb6-46a2-89fb-19e0b6ee96d4.png" width="500em" />
 
 
 ### Day 24: February 18, 2022
