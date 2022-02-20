@@ -45,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 2: February 10, 2022
+### Day 2: February 20, 2022
 **Project:**
 
 **Progress:**
@@ -57,12 +57,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 26: February 20, 2022
+**Progress:**
+
+- Solved AOC 2015 Day9 puzzle
+- Setup venv for deep learning
+- Trained AI/RL agent for LunarLander  
+
+**Thoughts:** Setting the venv for deep learning was very time consuming. I spent almost the whole day trying to get it to work   
+
 ### Day 25: February 19, 2022
 **Progress:**
 
 - Completed intro to AI and Rl course on Kaggle
-
-**Thoughts:** TODO
 
 **Certificate:**   
 <img src="https://user-images.githubusercontent.com/37080003/154820040-f255bc96-afb6-46a2-89fb-19e0b6ee96d4.png" width="500em" />
