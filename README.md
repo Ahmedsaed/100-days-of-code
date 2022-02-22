@@ -58,6 +58,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 27-28: February 21-22, 2022
+**Project:**   
+
+- Made some agents using stable baselines 3
+
+**Progress:**
+
+- Completed a 3-hour Course on AI/RL (on Youtube)
+- Scored 3113 points in Google Hash Code practice round
+
+**Link to Work:** [reinforcement learning models](https://github.com/Ahmedsaed/Deep-Reinforcement-Learning)
+
+
+
 ### Day 26: February 20, 2022
 **Progress:**
 
