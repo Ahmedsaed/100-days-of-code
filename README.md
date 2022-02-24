@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Code Log
 <!--
 ### Day 2: February 20, 2022
-**Project:**
+**Project:**   
 
 **Progress:**
 
@@ -56,6 +56,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 29: February 23, 2022
+**Project:** 
+
+- [Travel Journal](https://github.com/Ahmedsaed/Learn-ReactJS-Scrimba/tree/master/travel-journal)
+
+**Progress:**
+
+- Completed Google Kick Start problem 5 (test set 1 only)
+- Completed 2nd section of ReactJS course on scrimba (Including a solo project)
 
 
 ### Day 27-28: February 21-22, 2022
