@@ -45,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 2: February 20, 2022
+### Day 3: February 20, 2022
 **Project:**   
 
 **Progress:**
@@ -56,6 +56,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+### Day 30-31: February 24-25, 2022
+**Progress:**
+
+- Participated in google hash code 2022
+
+**Thoughts:** The problem statment was very weird. I have never seen such a problem in my life
+
+**Link to Work:** [Solution](https://github.com/Ahmedsaed/Hash-Code-2022)
 
 
 ### Day 29: February 23, 2022
