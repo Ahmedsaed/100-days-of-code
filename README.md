@@ -22,9 +22,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Secondary Goals & Resources
 
 - [ ] Complete as many coding challenges as possible: 
-    - [ ] [Advent of Code](https://adventofcode.com)
+    - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+    - [ ] Google Hash Code
+    - [ ] Google Kick Start
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
+    - [ ] Game of life
+    - [ ] Ulam spiral
 - [ ] [Current Progress: 8] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
@@ -60,7 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 30-31: February 24-25, 2022
 **Progress:**
 
-- Participated in google hash code 2022
+- Participated in google hash code 2022 Qualification round
 
 **Thoughts:** The problem statment was very weird. I have never seen such a problem in my life
 
