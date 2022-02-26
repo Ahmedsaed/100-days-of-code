@@ -33,20 +33,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
-- [ ] Learn new technologies and 
-    - [ ] CI/CD
-    - [ ] CSS
-    - [ ] Google Firebase 
-    - [ ] Three.JS
-    - [ ] Data Structures (in Depth)
-    - [ ] C++ STLs
-    - [ ] Threading
-    - [ ] Decorators, Generators, Itrators
-    - [ ] Design Concepts
-        - [ ] Aurora Backgrounds
-        - [ ] Glassmorphism
-        - [ ] Neumorphism
-        - [ ] Parallax scrolling
 
 ## Projects and Ideas
 
