@@ -29,7 +29,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
     - [ ] Game of life
     - [ ] Ulam spiral
-- [ ] [Current Progress: 8] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current Progress: 9] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -60,6 +60,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+### Day 32: February 26, 2022
+**Progress:**
+
+- Made some progress in the 3rd section in ReactJS course (on Scrimba)  
+
+### Event: Back to college (Second Semester)
 
 ### Day 30-31: February 24-25, 2022
 **Progress:**
