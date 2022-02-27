@@ -61,10 +61,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 33: February 27, 2022
+**Progress:**
+
+- Made some progress in the 3rd section in ReactJS course
+
+**Thoughts:** Solved some challenges about React States and learned conditional Rendering
+
+
 ### Day 32: February 26, 2022
 **Progress:**
 
 - Made some progress in the 3rd section in ReactJS course (on Scrimba)  
+
+**Thoughts:** Today, I learned React States 
 
 ### Event: Back to college (Second Semester)
 
