@@ -62,6 +62,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 34: February 28, 2022
+**Progress:**
+
+- Completed section 3 in Learn ReactJS course on Scrimba
+
+**Thoughts:** College takes up a lot of my time
+
+
 ### Day 33: February 27, 2022
 **Progress:**
 
