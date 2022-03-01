@@ -49,7 +49,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 3: February 20, 2022
+### Day 3: March 1, 2022
 **Project:**   
 
 **Progress:**
@@ -60,6 +60,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+### Day 35: March 1, 2022
+**Progress:**
+
+- Made some progress in the 4th section in Learn ReactJS course on Scrimba
 
 
 ### Day 34: February 28, 2022
