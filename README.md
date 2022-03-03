@@ -29,7 +29,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
     - [ ] Game of life
     - [ ] Ulam spiral
-- [ ] [Current Progress: 10] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Current Progress: 11] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -60,6 +60,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 37: March 3, 2022
+**Progress:**
+
+- Completed Foundations of User Experience (UX) Design Course By Google
+
+**Thoughts:** Excited to complete the whole program 
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/156570944-26dc2f68-a071-4dcc-bae7-fe4b3f67407b.png" width="500em" />
 
 
 ### Day 36: March 2, 2022
