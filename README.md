@@ -62,6 +62,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 38: March 4, 2022
+**Progress:**
+
+- Learned a lot about Web3 
+- Learned how the blockchain works
+- Learned how sha256 works
+- Solved advent of  code 2015 day 10
+- Made some progress in the freshman track in www.learnweb3.io
+
+**Thoughts:** can't wait to create my first dapp
+
+
 ### Day 37: March 3, 2022
 **Progress:**
 
