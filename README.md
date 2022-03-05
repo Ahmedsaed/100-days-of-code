@@ -29,7 +29,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
     - [ ] Game of life
     - [ ] Ulam spiral
-- [X] [Current Progress: 11] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Current Progress: 12] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
 - [ ] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -61,6 +61,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 39: March 5, 2022
+**Project:**   
+
+- Created my first NFT
+- Created my first Ether Token
+
+**Progress:**
+
+- Completed the freshman track in LearnWeb3.io
+
+**Work:** 
+
+- NFT: 0xB9b3F30D13B68884d436E355c6F9C215D5dDE081
 
 ### Day 38: March 4, 2022
 **Progress:**
