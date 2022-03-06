@@ -49,7 +49,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 3: March 1, 2022
+### Day 4: March 1, 2022
 **Project:**   
 
 **Progress:**
@@ -61,6 +61,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+
+### Day 40: March 6, 2022 
+
+**Progress:**
+
+- Completed 30% of a RL course (on YouTube)
 
 ### Day 39: March 5, 2022
 **Project:**   
@@ -74,7 +81,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Work:** 
 
-- NFT: 0xB9b3F30D13B68884d436E355c6F9C215D5dDE081
+- NFT address(Rinkeby test network): 0xB9b3F30D13B68884d436E355c6F9C215D5dDE081
 
 ### Day 38: March 4, 2022
 **Progress:**
