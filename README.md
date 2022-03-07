@@ -62,6 +62,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 41: March 7, 2022
+**Progress:**
+
+- Studied calculus and discrete mathematics for college
+- Made some progress in the RL Course and started training an AI to play Doom
+
+**Thoughts:** Discrete mathematics sounds very interesting. especially for Artificial intelligence
+
 
 ### Day 40: March 6, 2022 
 
