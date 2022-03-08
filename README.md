@@ -24,14 +24,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-    - [ ] Google Hash Code
+    - [X] Google Hash Code
     - [ ] Google Kick Start
     - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
     - [ ] Game of life
     - [ ] Ulam spiral
-- [X] [Current Progress: 12] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Current Progress: 13] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Make some youtube videos about coding
-- [ ] Get familiar with web3
+- [X] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
 
 ## Projects and Ideas
@@ -61,6 +61,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 42: March 8, 2022
+**Project:**   
+
+- Created an AI to play Doom (Basic Level)
+
+**Progress:**
+
+- Made some progress in a RL course
+- Received a certificate for particpating in Google Hash Code 2022
+- Completed Structuring Machine Learning course
+
+**Thoughts:** 2 more courses to go to finish the Deep Learning Specialization
+
+**Certificates:**    
+<img src="https://user-images.githubusercontent.com/37080003/157315019-0c78ac49-c8ec-48a8-9f81-dfbdd3e89e4c.png" width="500em" />
+<img src="https://user-images.githubusercontent.com/37080003/157317850-7c06dfd2-4aa1-477c-8b28-7b1b96dc39fb.png" width="500em" />
 
 ### Day 41: March 7, 2022
 **Progress:**
