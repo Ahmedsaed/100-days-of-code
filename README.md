@@ -62,6 +62,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 43: March 9, 2022
+**Project:**
+
+- DoomAI
+
+**Progress:**
+
+- Solved Day 12 Advent of Code 2015
+- Solved C++ college assignments
+- Completed the RL course (Gaming Reinforcement Learning)
+- Started traning a Doom AI on "Deadly corridor" Level
+
+**Thoughts:** I installed Conan package manager and started using it for complex cpp projects
+
 ### Day 42: March 8, 2022
 **Project:**   
 
