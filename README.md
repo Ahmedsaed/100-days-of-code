@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Game of life Visualizer
 - [ ] Personal Portfolio
 - [ ] Create a PWA app
-- [ ] Create a Chrome extension (to stay Focus and prevent Distraction)
+- [ ] Create a Chrome extension (to stay Focused and prevent Distraction)
 - [ ] Create a simulation of the N-Body problem (Using python)
 - [ ] Create something cool using Desmos
 - [ ] Create the 2023 "Happy new Year" Script
@@ -62,6 +62,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 44, 45: March 10-11, 2022
+**Progress:**
+
+- Solved Day 13 in Advent of code 2015
+- Watched previous CS50 seminars
+
 ### Day 43: March 9, 2022
 **Project:**
 
@@ -69,7 +75,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- Solved Day 12 Advent of Code 2015
+- Solved Day 11, 12 Advent of Code 2015
 - Solved C++ college assignments
 - Completed the RL course (Gaming Reinforcement Learning)
 - Started traning a Doom AI on "Deadly corridor" Level
