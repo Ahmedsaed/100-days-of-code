@@ -62,6 +62,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 46: March 12, 2022
+**Progress:**
+
+- Completed Level 1 in LearnWeb3.io sophomore track
+- Completed Lecture 2 in Elements of AI Course 1
+- Watched some Web3 Live Streams
+
+**Thoughts:** Web3 seems very revolutionary. Very excited to be a part of this great community
+
+
+
 ### Day 44, 45: March 10-11, 2022
 **Progress:**
 
