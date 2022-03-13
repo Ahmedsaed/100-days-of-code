@@ -62,6 +62,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 47: March 13, 2022
+**Progress:**
+
+- Watched some Web3 Live stream tutorials 
+- Learned how to use git branches, structure a git project, and write better commits
+
+**Thoughts:** Git is a very essential tool, it really simplifies the process of maintaining and developing porjects
+
+
 ### Day 46: March 12, 2022
 **Progress:**
 
