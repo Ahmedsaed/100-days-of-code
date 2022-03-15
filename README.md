@@ -62,6 +62,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 49: March 15, 2022
+**Progress:**
+
+- Made some progress in week 1 Convolutional Neural Networks course (on Coursera)
+- Made some improvements in AWS Deepracer student league 
 
 ### Day 48: March 14, 2022
 **Progress:**
