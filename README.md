@@ -49,7 +49,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 4: March 1, 2022
+### Day 5: March 1, 2022
 **Project:**   
 
 **Progress:**
@@ -61,6 +61,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 50: March 16, 2022
+**Progress:**
+
+- Watched lecture 1 in an RL course by David silver
+- Made some imporvments in AWS deepracer student league
+- Solved AOC 2015 Day 14 using cpp
+
+**Thoughts:** My team got qualified for Dell Hacktrick hackathon
 
 ### Day 49: March 15, 2022
 **Progress:**
