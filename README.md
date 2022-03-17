@@ -61,6 +61,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 51: March 17, 2022
+**Progress:**
+
+- Watched lecture 2 in an RL course by David Silver
+- Made some progress in AWS deepracer 
+
 
 ### Day 50: March 16, 2022
 **Progress:**
