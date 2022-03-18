@@ -61,6 +61,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 52: March 18, 2022
+**Project:**   
+
+- Mario AI
+
+**Progress:**
+
+- Trained an AI to play super mario (It requires a lot of traning to preform well)
+- Started working on a solution for Dell Hacktrick hackthon problem 
+
 ### Day 51: March 17, 2022
 **Progress:**
 
