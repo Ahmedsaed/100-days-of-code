@@ -62,6 +62,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+
+### Day 53: March 19, 2022
+**Progress:**
+
+- Made some improvements in "leaderboard_single" problem (Dell Hacktrick hackathon)
+
 ### Day 52: March 18, 2022
 **Project:**   
 
