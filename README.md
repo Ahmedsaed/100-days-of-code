@@ -62,16 +62,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 54: March 20, 2022
+**Progress:**
+
+- Watched some programming tutorials
+- Learned a lot about linux and how it works (Keyring concept)
+- Installed gcc and python3.7 for linux 
+
+**Thoughts:** Linux is very cool. It's a way better than windows as a development environment
+
 
 ### Day 53: March 19, 2022
 **Progress:**
 
 - Made some improvements in "leaderboard_single" problem (Dell Hacktrick hackathon)
+- Made some configuration to my linux os
 
 ### Day 52: March 18, 2022
 **Project:**   
 
 - Mario AI
+- Installed Zorin Linux
 
 **Progress:**
 
