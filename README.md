@@ -62,6 +62,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+
+### Day 55: March 21, 2022
+**Progress:**
+
+- Completed a programming assignment (college)
+- Completed 30% of a competitive programming course (on educative)
+- Made some progress in week 1 course 4 (deep learning specialization) 
+
+
 ### Day 54: March 20, 2022
 **Progress:**
 
