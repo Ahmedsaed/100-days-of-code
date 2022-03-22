@@ -49,7 +49,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 5: March 1, 2022
+### Day 5: March 2, 2022
 **Project:**   
 
 **Progress:**
@@ -61,6 +61,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+
+### Day 56: March 22, 2022
+**Progress:**
+
+- Solved some advent of code puzzles
+- Made some progress in a competitive programming course (on educative)
 
 
 ### Day 55: March 21, 2022
