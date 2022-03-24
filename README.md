@@ -59,13 +59,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+
+### Day 58: March 24, 2022
+**Progress:**
+
+- Add more algorithms to MUST-CPC
+- Completed some assignments in week 1 course 4 deep learning specialization
+
 ### Day 57: March 23, 2022
 **Progress:**
 
 - Made some progress in a competitive programming course (on educative) (completed 50% of the course)
 - Implemented a lot of algorithms and topics realted to competitive programming (in MUST-CPC)
-- Solved Advent of code 2015 Day 15 & 16
-
 
 ### Day 56: March 22, 2022
 **Progress:**
