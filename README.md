@@ -17,20 +17,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Code daily (At least 1 hour a day)
 - [ ] Create a portfolio
 - [ ] Contribute to open source projects (At least 3)
-- [ ] Get established in Twitter dev community
+- [X] Get established in Twitter dev community
 
 ### Secondary Goals & Resources
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-    - [X] Google Hash Code
-    - [ ] Google Kick Start
-    - [ ] [FreeCodeCamp](https://www.freecodecamp.org/)
-    - [ ] Game of life
-    - [ ] Ulam spiral
+    - [X] Google Hash Code 2022
+    - [ ] Google Kick Start 2022
 - [X] [Current Progress: 13] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
-- [ ] Make some youtube videos about coding
+- [X] Make some youtube videos about coding
 - [X] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
 
@@ -42,7 +39,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Game of life Visualizer
 - [ ] Personal Portfolio
 - [ ] Create a PWA app
-- [ ] Create a Chrome extension (to stay Focused and prevent Distraction)
+- [X] Create a Chrome extension (to stay Focused and prevent Distraction)
 - [ ] Create a simulation of the N-Body problem (Using python)
 - [ ] Create something cool using Desmos
 - [ ] Create the 2023 "Happy new Year" Script
@@ -61,6 +58,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 57: March 23, 2022
+**Progress:**
+
+- Made some progress in a competitive programming course (on educative) (completed 50% of the course)
+- Implemented a lot of algorithms and topics realted to competitive programming (in MUST-CPC)
+- Solved Advent of code 2015 Day 15 & 16
 
 
 ### Day 56: March 22, 2022
