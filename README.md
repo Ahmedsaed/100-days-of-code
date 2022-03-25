@@ -59,6 +59,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 59: March 25, 2022
+**Progress:**
+
+- Completed week 1 course 4 deep learning specialization
+- Add graph and dfs to MUST-CPC
+- Watched Lecture 1 in CPC-Level 3
+- Solved 3 problems about graphs
 
 ### Day 58: March 24, 2022
 **Progress:**
