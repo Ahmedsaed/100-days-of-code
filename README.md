@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 5: March 2, 2022
+### Day 6: March 2, 2022
 **Project:**   
 
 **Progress:**
@@ -58,6 +58,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 60: March 26, 2022
+**Progress:**
+
+- Completed another 16% from competitive programming course (on educative)
+- Implemented sorting algorithms in MUST-CPC
+- Watched some videos in week 2 course 4 Deep learning specialization
 
 ### Day 59: March 25, 2022
 **Progress:**
