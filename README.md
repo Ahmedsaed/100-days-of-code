@@ -26,7 +26,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
     - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [X] Google Hash Code 2022
     - [ ] Google Kick Start 2022
-- [X] [Current Progress: 13] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Current Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [X] Make some youtube videos about coding
 - [X] Get familiar with web3
 - [ ] [Current Progress: 3] Practice touch typing for 30 days
@@ -58,6 +58,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 61: March 27, 2022
+**Progress:**
+
+- Completed "Competitive Programming in C++: The Keys to Success" course 
+- Added Linked Lists and Binary Tree in MUST-CPC
+- Participated in a programming contest by MUST-CPC 
 
 ### Day 60: March 26, 2022
 **Progress:**
