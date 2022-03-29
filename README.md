@@ -33,13 +33,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Projects and Ideas
 
-- [ ] Unity Car-AI 
+- [X] Unity Car-AI 
 - [ ] Cyberpunk-like terminal screen animation
 - [ ] do something cool using SonicPy & RockStar programming language
 - [ ] Game of life Visualizer
 - [ ] Personal Portfolio
 - [ ] Create a PWA app
-- [X] Create a Chrome extension (to stay Focused and prevent Distraction)
+- [ ] Create a Chrome extension (to stay Focused and prevent Distraction)
 - [ ] Create a simulation of the N-Body problem (Using python)
 - [ ] Create something cool using Desmos
 - [ ] Create the 2023 "Happy new Year" Script
@@ -57,6 +57,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 62, 63: March 28-29, 2022
+**Project:**   
+
+- [Unity Car-AI](https://github.com/Ahmedsaed/CarAI-Unity)
+    
+**Progress:**
+
+- Completed the documentation 
+- Fixed some bugs 
+- Made final touches and submitted the package to Unity Asset Store
+- Solved Advent of Code 2015 Day 15
+
+**Thoughts:** I started the car-AI project 2 years ago. And, yesterday I decided to complete it and publish it.
 
 
 ### Day 61: March 27, 2022
