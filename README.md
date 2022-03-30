@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 6: March 2, 2022
+### Day 6: March 3, 2022
 **Project:**   
 
 **Progress:**
@@ -57,6 +57,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 64: March 30, 2022
+**Progress:**
+
+- Completed week 2 in course 4 deep learning specialization
+- Solved college assignments (MUST-CS) 
 
 
 ### Day 62, 63: March 28-29, 2022
