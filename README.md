@@ -59,6 +59,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 65: March 31, 2022
+**Progress:**
+
+- Attended Huawie Hire3 
+- Attended MLH Fellowship webinar
+- Attended Supernova Hackathon WORKSHOP #2
+- Fixed some bugs
+- Made a Video Demo for Car-AI Unity3D
+
 ### Day 64: March 30, 2022
 **Progress:**
 
