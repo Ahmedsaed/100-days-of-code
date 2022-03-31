@@ -74,6 +74,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Completed week 2 in course 4 deep learning specialization
 - Solved college assignments (MUST-CS) 
 
+**Thoughts:** I have been accepted in the Professional Track - Web development Scholarship by ITIDA. Very excited to complete this learning journey 
+
 
 ### Day 62, 63: March 28-29, 2022
 **Project:**   
