@@ -59,6 +59,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 66: March 32, 2022
+**Progress:**
+
+- Participated in cs50 puzzle day (Solved 3 problems)
+- Completed the first 3 lectures in Professional Track - Web development Scholarship by ITIDA
+
+**Thoughts:** I just recieved my new keyboard. Now, I am ready to continue practicing touch typing
+
 ### Day 65: March 31, 2022
 **Progress:**
 
