@@ -59,7 +59,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
-### Day 66: March 32, 2022
+### Day 67: April 2, 2022
+**Progress:**
+
+- Participated in Google code jam 2022 (Solved 4 problems out of 5)   
+
+
+
+### Day 66: April 1, 2022
 **Progress:**
 
 - Participated in cs50 puzzle day (Solved 3 problems)
