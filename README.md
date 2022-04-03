@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 6: March 3, 2022
+### Day 6: April 3, 2022
 **Project:**   
 
 **Progress:**
@@ -59,11 +59,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 68: April 3, 2022
+**Project:**   
+
+- MLH Wordle Clone
+- Discord bot (Motivation bot)
+
+**Progress:**
+
+- Solved 8 problems in sheet 1 cpc level 3
+- Participated in MLH Global Hack Week Day 1
+
+**Thoughts:** Very excited to compete in G.H.W hackathon
+
+**Link to Work:** TODO
+
+
+
 ### Day 67: April 2, 2022
 **Progress:**
 
-- Participated in Google code jam 2022 (Solved 4 problems out of 5)   
-
+- Participated in Google code jam 2022 Qualification round (Solved 4 problems out of 5)   
 
 
 ### Day 66: April 1, 2022
