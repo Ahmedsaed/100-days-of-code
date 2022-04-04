@@ -59,6 +59,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 69: April 4, 2022
+**Project:**   
+
+- Twitter Bot @Wall_E_the_bot
+
+**Progress:**
+
+- Participated in MLH Global Hack Week Day 2
+- Created a twitter bot
+- Received a Google Code Jam 2022 Qualification Round Certificate   
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/161595334-620c7106-f83d-4136-90bb-f3cd7ca7cfaa.png" width="500em" />
+
+
 ### Day 68: April 3, 2022
 **Project:**   
 
