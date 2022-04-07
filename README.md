@@ -29,7 +29,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [X] [Current Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [X] Make some youtube videos about coding
 - [X] Get familiar with web3
-- [ ] [Current Progress: 3] Practice touch typing for 30 days
+- [ ] Practice touch typing (Goal: 80 WPM)
 
 ## Projects and Ideas
 
@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 6: April 3, 2022
+### Day 7: April 3, 2022
 **Project:**   
 
 **Progress:**
@@ -59,10 +59,46 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+
+### Day 71: April 6, 2022
+**Project:**   
+
+- MLH Hacker Portal (MLH Global Hack Week Project)
+    > A Social Media App built on Deso Network (Blockchain)
+
+**Progress:**
+
+- Participated in MLH Global Hack Week Day 4
+- Created my first social media app (Also it's my first project on the blockchain)
+- Solved 10 problems (Sheet 2 MUST-CPC)
+
+**Link to Work:**   
+
+- [MLH Hacker Portal](https://ahmedsaed.me/MLH-Hacker-Protal)
+
+
+### Day 70: April 5, 2022
+**Project:**   
+
+- Morse Code Translator (MLH Global Hack Week Project)
+- Focus (MLH Global Hack Week Project) (Still Under Development)
+    > A chrome expension to help you stayed focused and prevent distraction
+
+**Progress:**
+
+- Participated in MLH Global Hack Week Day 3
+- Created Morse Code Translator Website
+- Created a chrome extension 
+
+**Link to Work:**    
+
+- [Morse Code Translator](https://ahmedsaed.me/Morse-Code-Translator)
+
+
 ### Day 69: April 4, 2022
 **Project:**   
 
-- Twitter Bot @Wall_E_the_bot
+- Twitter Bot @Wall_E_the_bot (MLH Global Hack Week Project)
 
 **Progress:**
 
