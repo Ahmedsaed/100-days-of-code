@@ -59,12 +59,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 73: April 8, 2022
+**Project:**   
+
+- MLH GHW Renate
+
+**Progress:**
+
+- Created Renate Project (A mobile app to send donations for environmental charity)
+- Participated in MLH Global Hack Week Day 6
+
+### Day 72: April 7, 2022
+**Project:**   
+
+- MLH Hacker Portal (MLH Global Hack Week Project)
+
+**Progress:**
+
+- Added new features in MLH Jacker Portal
+- Participated in MLH Global Hack Week Day 5
+
+
 
 ### Day 71: April 6, 2022
 **Project:**   
 
 - MLH Hacker Portal (MLH Global Hack Week Project)
-    > A Social Media App built on Deso Network (Blockchain)
+    > A Social Media Platform built on Deso Network (Blockchain)
 
 **Progress:**
 
