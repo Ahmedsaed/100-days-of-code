@@ -16,7 +16,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Code daily (At least 1 hour a day)
 - [ ] Create a portfolio
-- [ ] Contribute to open source projects (At least 3)
+- [X] Contribute to open source projects
 - [X] Get established in Twitter dev community
 
 ### Secondary Goals & Resources
@@ -43,6 +43,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create a simulation of the N-Body problem (Using python)
 - [ ] Create something cool using Desmos
 - [ ] Create the 2023 "Happy new Year" Script
+- [X] Create an app on the blockchain
 
 ## Code Log
 <!--
@@ -57,6 +58,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+
+### Day 75: April 10, 2022
+**Progress:**
+
+- Attended the closing ceremony of Global Hack Week
+- Practiced problem solving
+
+
+### Day 74: April 9, 2022
+**Progress:**
+
+- Participated in MLH Global Hack Week Day 7
+- Implemented Auth0 in a website 
 
 
 ### Day 73: April 8, 2022
