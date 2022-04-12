@@ -61,6 +61,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+
+### Day 77: April 12, 2022
+**Progress:**
+
+- Solved sheet 2 of MUST-CPC Level 2
+- Completed Chapter 2 of Egypt-FWD Web development professional course
+
+
+### Day 76: April 11, 2022
+**Progress:**
+
+- Completed Chapter 1 of Egypt-FWD Web development professional course
+- Reorganized all projects
+
+
 ### Day 75: April 10, 2022
 **Progress:**
 
