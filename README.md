@@ -23,9 +23,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-    - [ ] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+    - [X] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [X] Google Hash Code 2022
-    - [ ] Google Kick Start 2022
+    - [X] Google Kick Start 2022
 - [X] [Current Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [X] Make some youtube videos about coding
 - [X] Get familiar with web3
@@ -47,7 +47,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 7: April 3, 2022
+### Day 8: April 1, 2022
 **Project:**   
 
 **Progress:**
@@ -59,7 +59,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 80: April 15, 2022
+**Project:**   
 
+- Presentation Gallery
+
+**Progress:**
+
+- Created my presentation gallery
+- Practiced problem solving
+
+**Thoughts:** I had this idea a long time ago. But I finally completed it.
+
+**Link to Work:** 
+
+- [Presentation Gallery](https://pt.ahmedsaed.me)
+
+### Day 78, 79: April 13-14, 2022
+**Progress:**
+
+- Solved The rest of sheet 2 of MUST-CPC Level 2
+- Practiced problem solving
+- Made some progress in the ReChain Project
+- Submitted Assignment 1 of Egypt-FWD Web development professional course
+
+**Thoughts:** I really like the FWD Web development professional course, especially the review feedback. It's very informative and supportive
 
 
 ### Day 77: April 12, 2022
