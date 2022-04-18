@@ -63,7 +63,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 83: April 18, 2022
 **Progress:**
 
-- Watched a lecture about BST algorithm and solved some problems
+- Watched a lecture about BFS algorithm and solved some problems
 - Attended a webinar on agile 
 
 
