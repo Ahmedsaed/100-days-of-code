@@ -64,7 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 
 - Watched a lecture about BST algorithm and solved some problems
-- Attended a lecture on agile 
+- Attended a webinar on agile 
 
 
 ### Day 82: April 17, 2022
