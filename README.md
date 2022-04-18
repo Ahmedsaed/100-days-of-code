@@ -59,6 +59,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 83: April 18, 2022
+**Progress:**
+
+- Watched a lecture about BST algorithm and solved some problems
+- Attended a lecture on agile 
+
+
+### Day 82: April 17, 2022
+**Progress:**
+
+- Attended a lecture about Dijkstra algorithm
+- Practiced problem solving
+
+
+### Day 81: April 16, 2022
+**Progress:**
+
+- Made some improvments in the presentation gallery project
+- Made some fixes and resubmitted project 1 for Egypt FWD Web Dev Course
+
+
 ### Day 80: April 15, 2022
 **Project:**   
 
