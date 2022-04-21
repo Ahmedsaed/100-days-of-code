@@ -59,16 +59,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
-### Day 8: April 1, 2022
-**Project:**   
-
+### Day 84-85: April 19-20, 2022
 **Progress:**
 
--
-
-**Thoughts:**
-
-**Link to Work:**   
+- Added Map and Set to Competitive programming repo
+- Practiced problem solving
+- Solved sheet 3 MUST-CPC Level 2
 
 ### Day 83: April 18, 2022
 **Progress:**
