@@ -43,7 +43,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create a simulation of the N-Body problem (Using python)
 - [ ] Create something cool using Desmos
 - [ ] Create the 2023 "Happy new Year" Script
-- [X] Create an app on the blockchain
+- [X] Create an app on the blockchain 
+- [X] Presentation Gallery
+- [X] Morse Code Translator
+- [X] Twitter bot
+- [X] Discord Bot
 
 ## Code Log
 <!--
