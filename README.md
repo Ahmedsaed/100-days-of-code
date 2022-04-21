@@ -59,6 +59,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 8: April 1, 2022
+**Project:**   
+
+**Progress:**
+
+-
+
+**Thoughts:**
+
+**Link to Work:**   
 
 ### Day 83: April 18, 2022
 **Progress:**
