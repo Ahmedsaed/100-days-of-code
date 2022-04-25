@@ -63,6 +63,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 86-89: April 21-24, 2022
+**Project:**   
+
+- CarAI-Unity3D
+
+**Progress:**
+
+- I didn't achieve a lot of progress in day 81, 82 but I coded for an hour, solving some bugs and watching tutorials
+- Prepared CarAI-Unity3D for open source contributions
+- Learned CPP Templates & Macros
+- Completed Week 3 in Deep Learning Speacialization Course 4
+- Participated in Google Code Jam & Kick Start
+
+**Thoughts:** ready to maintaine my first open source project  
+
 ### Day 84-85: April 19-20, 2022
 **Progress:**
 
