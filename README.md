@@ -64,6 +64,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 90-91: April 25-26, 2022  
+**Progress:**
+
+- Watched some tutorials about cryptography 
+- Participated in a programming contest by MUST-CPC
+
 ### Day 86-89: April 21-24, 2022
 **Project:**   
 
