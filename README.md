@@ -14,40 +14,35 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [ ] Code daily (At least 1 hour a day)
+- [X] Code daily (At least 1 hour a day)
 - [ ] Create a portfolio
 - [X] Contribute to open source projects
 - [X] Get established in Twitter dev community
 
 ### Secondary Goals & Resources
 
-- [ ] Complete as many coding challenges as possible: 
+- [X] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
     - [X] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
     - [X] Google Hash Code 2022
     - [X] Google Kick Start 2022
-- [X] [Current Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scrimba ...
 - [X] Make some youtube videos about coding
 - [X] Get familiar with web3
-- [ ] Practice touch typing (Goal: 80 WPM)
+- [X] Practice touch typing
 
-## Projects and Ideas
+## Projects
 
 - [X] Unity Car-AI 
-- [ ] Cyberpunk-like terminal screen animation
-- [ ] do something cool using SonicPy & RockStar programming language
-- [ ] Game of life Visualizer
-- [ ] Personal Portfolio
-- [ ] Create a PWA app
-- [ ] Create a Chrome extension (to stay Focused and prevent Distraction)
-- [ ] Create a simulation of the N-Body problem (Using python)
-- [ ] Create something cool using Desmos
-- [ ] Create the 2023 "Happy new Year" Script
-- [X] Create an app on the blockchain 
+- [X] ReChain: Social media app on block chain
 - [X] Presentation Gallery
 - [X] Morse Code Translator
 - [X] Twitter bot
 - [X] Discord Bot
+- [X] Trained multiple agents to play Atari games
+- [X] Created my first NFT & Ether token
+- [X] Check19 (This project was a created for CUHackIt 2022 Hackathon)
+
 
 ## Code Log
 <!--
@@ -61,8 +56,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 
 **Link to Work:**    
--->
+-->   
 
+### Day 92-93: April 27-28, 2022
+**Progress:**
+
+- Made some improvements to presentation gallery
+- Practiced problem solving
+- Watched some tutorials about cpp
+
+**Thoughts:** I am kinda busy because of college quizzes and final-exam
 
 ### Day 90-91: April 25-26, 2022  
 **Progress:**
@@ -80,10 +83,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - I didn't achieve a lot of progress in day 81, 82 but I coded for an hour, solving some bugs and watching tutorials
 - Prepared CarAI-Unity3D for open source contributions
 - Learned CPP Templates & Macros
-- Completed Week 3 in Deep Learning Speacialization Course 4
+- Completed Week 3 in Deep Learning Specialization Course 4
 - Participated in Google Code Jam & Kick Start
 
-**Thoughts:** ready to maintaine my first open source project  
+**Thoughts:** ready to maintain my first open source project  
 
 ### Day 84-85: April 19-20, 2022
 **Progress:**
@@ -109,7 +112,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 81: April 16, 2022
 **Progress:**
 
-- Made some improvments in the presentation gallery project
+- Made some improvements in the presentation gallery project
 - Made some fixes and resubmitted project 1 for Egypt FWD Web Dev Course
 
 
@@ -212,7 +215,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - Morse Code Translator (MLH Global Hack Week Project)
 - Focus (MLH Global Hack Week Project) (Still Under Development)
-    > A chrome expension to help you stayed focused and prevent distraction
+    > A chrome extension to help you stayed focused and prevent distraction
 
 **Progress:**
 
@@ -269,12 +272,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Participated in cs50 puzzle day (Solved 3 problems)
 - Completed the first 3 lectures in Professional Track - Web development Scholarship by ITIDA
 
-**Thoughts:** I just recieved my new keyboard. Now, I am ready to continue practicing touch typing
+**Thoughts:** I just received my new keyboard. Now, I am ready to continue practicing touch typing
 
 ### Day 65: March 31, 2022
 **Progress:**
 
-- Attended Huawie Hire3 
+- Attended Huawei Hire3 
 - Attended MLH Fellowship webinar
 - Attended Supernova Hackathon WORKSHOP #2
 - Fixed some bugs
@@ -336,7 +339,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 
 - Made some progress in a competitive programming course (on educative) (completed 50% of the course)
-- Implemented a lot of algorithms and topics realted to competitive programming (in MUST-CPC)
+- Implemented a lot of algorithms and topics related to competitive programming (in MUST-CPC)
 
 ### Day 56: March 22, 2022
 **Progress:**
@@ -377,8 +380,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 
-- Trained an AI to play super mario (It requires a lot of traning to preform well)
-- Started working on a solution for Dell Hacktrick hackthon problem 
+- Trained an AI to play super mario (It requires a lot of training to preform well)
+- Started working on a solution for Dell Hacktrick hackathon problem 
 
 ### Day 51: March 17, 2022
 **Progress:**
@@ -391,7 +394,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 
 - Watched lecture 1 in an RL course by David silver
-- Made some imporvments in AWS deepracer student league
+- Made some improvements in AWS deepracer student league
 - Solved AOC 2015 Day 14 using cpp
 
 **Thoughts:** My team got qualified for Dell Hacktrick hackathon
@@ -405,7 +408,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 48: March 14, 2022
 **Progress:**
 
-- Watched some tutorials about Github Acions
+- Watched some tutorials about Github Actions
 - Made some progress in week 1 Convolutional Neural Networks course (on Coursera)
 - Made some progress in AWS Deepracer student league
 
@@ -416,7 +419,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Watched some Web3 Live stream tutorials 
 - Learned how to use git branches, structure a git project, and write better commits
 
-**Thoughts:** Git is a very essential tool, it really simplifies the process of maintaining and developing porjects
+**Thoughts:** Git is a very essential tool, it really simplifies the process of maintaining and developing projects
 
 
 ### Day 46: March 12, 2022
@@ -446,7 +449,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Solved Day 11, 12 Advent of Code 2015
 - Solved C++ college assignments
 - Completed the RL course (Gaming Reinforcement Learning)
-- Started traning a Doom AI on "Deadly corridor" Level
+- Started training a Doom AI on "Deadly corridor" Level
 
 **Thoughts:** I installed Conan package manager and started using it for complex cpp projects
 
@@ -458,7 +461,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 
 - Made some progress in a RL course
-- Received a certificate for particpating in Google Hash Code 2022
+- Received a certificate for participating in Google Hash Code 2022
 - Completed Structuring Machine Learning course
 
 **Thoughts:** 2 more courses to go to finish the Deep Learning Specialization
@@ -571,7 +574,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - Participated in google hash code 2022 Qualification round
 
-**Thoughts:** The problem statment was very weird. I have never seen such a problem in my life
+**Thoughts:** The problem statement was very weird. I have never seen such a problem in my life
 
 **Link to Work:** [Solution](https://github.com/Ahmedsaed/Hash-Code-2022)
 
@@ -584,16 +587,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 
 - Completed Google Kick Start problem 5 (test set 1 only)
-- Completed 2nd section of ReactJS course on scrimba (Including a solo project)
+- Completed 2nd section of ReactJS course on Scrimba (Including a solo project)
 
 
 ### Day 27-28: February 21-22, 2022
-**Project:**   
-
-- Made some agents using stable baselines 3
-
 **Progress:**
 
+- Made some agents using stable baselines 3
 - Completed a 3-hour Course on AI/RL (on Youtube)
 - Scored 3113 points in Google Hash Code practice round
 
@@ -672,7 +672,7 @@ You don't just have to come up with a solution, instead you need to come up with
 **Progress:**
 - Made some progress in week 2 | course 2 deep learning specialization
 - Solved 2015 Day 8 part 1&2 in AOC
-**Thoughts:** Advent of code puzzels seems at first very simple but in reality it's has lots of tricks
+**Thoughts:** Advent of code puzzles seems at first very simple but in reality it's has lots of tricks
 
 ### Day 18: February 12, 2022
 **Progress:**
@@ -704,7 +704,7 @@ You don't just have to come up with a solution, instead you need to come up with
 - Completed Week 1 in Deep Learning specialization Course 2
 - Followed some tutorials about Object Classification   
 
-**Thoughts:** I am very intersted in computer vision and it's capabilities  
+**Thoughts:** I am very interested in computer vision and it's capabilities  
 
 **Link to Work:** [Demo](https://github.com/Ahmedsaed/Computer-Vision/tree/master/MobileNet%20v3#object-detection)
 
@@ -729,19 +729,19 @@ You don't just have to come up with a solution, instead you need to come up with
 ### Day 11: February 5, 2022
 **Progress:**
 - Completed the CSS crash course that I started on Day 10
-- Enrolled in a 7-hour JS course (on Scimba) and completed it (Because I was familiar with about 50% of the course material)
-- Enrolled in a 1-hour EC6 course (on Scimba) and completed it
+- Enrolled in a 7-hour JS course (on Scrimba) and completed it (Because I was familiar with about 50% of the course material)
+- Enrolled in a 1-hour EC6 course (on Scrimba) and completed it
 
-**Thoughts:** I really like the Scimba website, it makes learning much more easy and fun  
+**Thoughts:** I really like the Scrimba website, it makes learning much more easy and fun  
 
 ### Day 10: February 4, 2022
 **Progress:**
 - I enrolled in a CSS crash course 
 - I also solved  some advent of code puzzles 
 
-**Thoughts:** I originally wanted to take a course on web3, however in the first lecture of the course there was a recommendation about a another frontend course in Scimba (like a pre-request).  
+**Thoughts:** I originally wanted to take a course on web3, however in the first lecture of the course there was a recommendation about a another frontend course in Scrimba (like a pre-request).  
 
-The moment I entered the Scimba website, I fell in love with it and decided to take a couple more courses on web-development.     
+The moment I entered the Scrimba website, I fell in love with it and decided to take a couple more courses on web-development.     
 
 So. Here I am enrolled in a crash course on HTML and CSS and planning to take 3 more courses (the first on JavaScript, the second on EC6, and the last on ReactJS)  
 
