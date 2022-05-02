@@ -58,7 +58,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->   
 
-ToDo
+
+### Day 94-96: April 29 - May 1, 2022
+**Project:**   
+
+- My team and I completed our final project for IS101 course (College)
+
+**Progress:**
+
+- Practiced problem solving
+- Watched some tutorials on cryptography
+- Completed Chapter 2 and 7 of Udacity professional web development nanodegree 
+
+**Thoughts:**
+
+- I started practicing problem solving on Leetcode. And I really like the platform it's well organized and very encouraging.
+- I am very busy this week as I am studying for college exams 
 
 ### Day 92-93: April 27-28, 2022
 **Progress:**
