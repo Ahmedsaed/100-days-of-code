@@ -59,6 +59,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->   
 
 
+
+### Day 97-98: May 2-3, 2022
+**Progress:**
+
+- Practiced problem solving
+- Made some improvements to my Resume and LinkedIn profile
+
+**Thoughts:** Well, May 2 was Eid so I Kinda took it as a break.
+
+
 ### Day 94-96: April 29 - May 1, 2022
 **Project:**   
 
