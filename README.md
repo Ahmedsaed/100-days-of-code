@@ -18,6 +18,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create a portfolio
 - [X] Contribute to open source projects
 - [X] Get established in Twitter dev community
+    > I cannot describe in words how happy I am to be a part of this amazing and inspiring community. I learned a lot of great things and made a lot of new connections. 
 
 ### Secondary Goals & Resources
 
@@ -41,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [X] Discord Bot
 - [X] Trained multiple agents to play Atari games
 - [X] Created my first NFT & Ether token
-- [X] Check19 (This project was a created for CUHackIt 2022 Hackathon)
+- [X] Check19 (This project was created as a submission for CUHackIt 2022 Hackathon)
 
 
 ## Code Log
