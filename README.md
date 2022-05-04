@@ -46,7 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!--
-### Day 8: April 1, 2022
+### Day 8: May 1, 2022
 **Project:**   
 
 **Progress:**
@@ -60,13 +60,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 
+### Day 99: May 4, 2022
+**Progress:**
+
+- Preparing to complete the challenge 
+- Made some progress in Project 2 - Udacity Web development Nano-Degree
+
+**Thoughts:** Super Excited 🤩
+ 
+
 ### Day 97-98: May 2-3, 2022
 **Progress:**
 
 - Practiced problem solving
 - Made some improvements to my Resume and LinkedIn profile
 
-**Thoughts:** Well, May 2 was Eid so I Kinda took it as a break.
+**Thoughts:** Well, May 2 was a Feast so I Kinda took it as a break.
 
 
 ### Day 94-96: April 29 - May 1, 2022
