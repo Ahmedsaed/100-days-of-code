@@ -7,8 +7,7 @@
 | [this log](https://github.com/Ahmedsaed/100-days-of-code/tree/main#code-log) | 
 
 ## Challenge & Commitment
-This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
-
+This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code) challenge. More details about the challenge can be found here: [100daysofcode offical website](http://100daysofcode.com/).
 
 **Commitment:** *I will code daily for the next 100 days.*
 
@@ -22,11 +21,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Secondary Goals & Resources
 
-- [X] Complete as many coding challenges as possible: 
-    - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-    - [X] [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-    - [X] Google Hash Code 2022
-    - [X] Google Kick Start 2022
+- [X] Complete as many coding challenges as possible: Advent of Code 2015 - Google Code Jam, Hash Code, Kick Start - Codeforces - LeetCode
 - [X] [Progress: 14] Complete as many courses: Coursera, Udemy, Udacity, Scrimba ...
 - [X] Make some youtube videos about coding
 - [X] Get familiar with web3
@@ -44,6 +39,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [X] Created my first NFT & Ether token
 - [X] Check19 (This project was created as a submission for CUHackIt 2022 Hackathon)
 
+## Hackathons & Events
+- Dell Hacktrick
+- CUHackIt 2022
+- MLH Global Hack Week
+- IEEE and GDSC events
 
 ## Code Log
 <!--
