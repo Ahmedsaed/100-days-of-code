@@ -60,6 +60,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->   
 
 
+### Day 100: May 5, 2022
+**Thoughts:**   
+I did it 🎉🥳.   
+I have just completed my #Day100 of #100DaysOfCode and it has been an amazing journey.
+
+I have learned a lot, created great projects, made new connections and most importantly made coding a habit.
+
+Tomorow, I'll start #round2 of #100DaysOfCode.
 
 ### Day 99: May 4, 2022
 **Progress:**
