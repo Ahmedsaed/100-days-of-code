@@ -7,7 +7,7 @@
 | [this log](https://github.com/Ahmedsaed/100-days-of-code/tree/main#code-log) | 
 
 ## Challenge & Commitment
-This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code) challenge. More details about the challenge can be found here: [100daysofcode offical website](http://100daysofcode.com/).
+This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code) challenge. More details about the challenge can be found here: [100daysofcode official website](http://100daysofcode.com/).
 
 **Commitment:** *I will code daily for the next 100 days.*
 
@@ -67,7 +67,7 @@ I have just completed my #Day100 of #100DaysOfCode and it has been an amazing jo
 
 I have learned a lot, created great projects, made new connections and most importantly made coding a habit.
 
-Tomorow, I'll start #round2 of #100DaysOfCode.
+Tomorrow, I'll start #round2 of #100DaysOfCode.
 
 ### Day 99: May 4, 2022
 **Progress:**
@@ -96,11 +96,11 @@ Tomorow, I'll start #round2 of #100DaysOfCode.
 
 - Practiced problem solving
 - Watched some tutorials on cryptography
-- Completed Chapter 2 and 7 of Udacity professional web development nanodegree 
+- Completed Chapter 2 and 7 of Udacity professional web development NanoDegree 
 
 **Thoughts:**
 
-- I started practicing problem solving on Leetcode. And I really like the platform it's well organized and very encouraging.
+- I started practicing problem solving on LeetCode. And I really like the platform it's well organized and very encouraging.
 - I am very busy this week as I am studying for college exams 
 
 ### Day 92-93: April 27-28, 2022
