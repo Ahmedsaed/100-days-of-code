@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/100-days-of-code/static/css/main.c66d93a1.css",
+    "main.js": "/100-days-of-code/static/js/main.4f6847eb.js",
+    "static/js/787.da43990b.chunk.js": "/100-days-of-code/static/js/787.da43990b.chunk.js",
+    "index.html": "/100-days-of-code/index.html",
+    "main.c66d93a1.css.map": "/100-days-of-code/static/css/main.c66d93a1.css.map",
+    "main.4f6847eb.js.map": "/100-days-of-code/static/js/main.4f6847eb.js.map",
+    "787.da43990b.chunk.js.map": "/100-days-of-code/static/js/787.da43990b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66d93a1.css",
+    "static/js/main.4f6847eb.js"
+  ]
+}
