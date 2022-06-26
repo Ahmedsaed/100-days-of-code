@@ -13,16 +13,15 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    defaults:
+          run:
+            working-directory: ./react-log
     strategy:
       matrix:
         node-version: [16.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - name: change directory
-      run: ls
-      
     - name: Checkout repository
       uses: actions/checkout@v3
     
