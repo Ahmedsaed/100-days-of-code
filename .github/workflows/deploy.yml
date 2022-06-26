@@ -11,10 +11,8 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    defaults:
-          run:
+    env:
             working-directory: ./react-log
     strategy:
       matrix:
@@ -28,7 +26,6 @@ jobs:
     - name: Set up Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        run: cd ./react-log
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
 
