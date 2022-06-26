@@ -20,6 +20,9 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
+    - name: change directory
+      run: cd react-log
+      
     - name: Checkout repository
       uses: actions/checkout@v3
     
@@ -34,10 +37,7 @@ jobs:
       with:
         path: ./node_modules
         key: modules-${{ hashFiles('package-lock.json') }}
-      
-    - name: change directory
-      run: cd react-log
-      
+    
     - name: Install dependencies
       if: steps.cache.outputs.cache-hit != 'true'
       run: npm ci --ignore-scripts
