@@ -28,6 +28,7 @@ jobs:
     - name: Set up Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
+        working-directory: ./react-log
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
 
