@@ -806,7 +806,7 @@ I really loved the puzzles
 ### Day 6,7,8: January 31 - February 2, 2022
 **Progress**: I completed egyptFWD Data Analysis challenger course and earned a certificate.  
 **Certificate**:   
-<img src="Assets\EgyptFWD Data Analysis Challenger .png" height="300em">
+<img src="https://user-images.githubusercontent.com/37080003/176200262-95de9b77-d470-4a60-b8ea-039ec950a00b.png" height="300em">
 
 ### Day 4,5: January 29-30, 2022
 **Project:** Check 19  
@@ -822,7 +822,7 @@ I really loved the puzzles
 ### Day 2: January 27, 2022
 **Today's Progress**: I completed egyptFWD web development challenger course and earned a certificate.  
 **Certificate**:   
-<img src="Assets\EgyptFWD Wed Development Challenger.png" height="300em">
+<img src="https://user-images.githubusercontent.com/37080003/176200054-d4a4c714-3dc2-4c75-b3af-c4810bd3b18e.png" height="300em">
 
 ### Day 1: January 26, 2022
 **Today's Progress**: I completed lectures 2,3,4,5 in egyptFWD web development course and learned a lot about CSS
