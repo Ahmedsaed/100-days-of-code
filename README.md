@@ -35,8 +35,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create the 2023 "Happy new Year" Script
 
 ## Code Log
-<!--
-### Day 8: April 1, 2022
+<!-- 
+### Day 8: June 28, 2022
 **Project:**   
 
 **Progress:**
@@ -46,7 +46,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 
 **Link to Work:**    
--->
+ -->
+
+
+### Day 2: June 27, 2022
+**Progress:**
+
+- Solved some competitve programming problems
+
+### Day 1: June 26, 2022
+**Project:**   
+
+- 100DaysOfCode Log Website
+- Solved some competitve programming problems
+
+**Progress:**
+
+- Created 100DaysOfCode Log Website
+
+**Thoughts:** 
+
+**Link to Work:** There is still a lot of work and optimizations that needs to be done for the website to work properly
+[100DaysOfCode](https://ahmedsaed.me/100-days-of-code)
 
 
 
