@@ -64,9 +64,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - Created 100DaysOfCode Log Website
 
-**Thoughts:** 
+**Thoughts:** There is still a lot of work and optimizations that needs to be done for the website to work properly
 
-**Link to Work:** There is still a lot of work and optimizations that needs to be done for the website to work properly
+**Link to Work:**   
 [100DaysOfCode](https://ahmedsaed.me/100-days-of-code)
 
 
