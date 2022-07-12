@@ -50,6 +50,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 18: July 12, 2022
+**Progress:**    
+
+- Completed week 2 in course 1 of It for Automation
+- Completed week 1 in course 2 of TensorFlow for developers
+
+
 ### Day 17: July 11, 2022
 **Progress:**    
 
