@@ -19,9 +19,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [ ] [Current: 2] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current: 3] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Practice touch typing (Goal: 80 WPM)
-- [ ] [Current: Day 1] Participate in Global Hack week INIT
+- [X] Participate in Global Hack week INIT
 
 ## Projects and Ideas
 
@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 8: July 1, 2022
+### Day 18: July 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -47,9 +47,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 
 **Link to Work:**    
- -->
- 
- 
+-->
+
+
+### Day 17: July 11, 2022
+**Progress:**    
+
+- Installed manjaro on my main desktop 
+- completed course 1 in TensorFlow specialization on Coursera
+- Enrolled in "It for Automation" on Coursera (part of the Google scholarship)
+
+**Thoughts:** I really like manjaro and I am probably going to use it as a daily driver
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/178513879-17ff3f34-ccbc-4d01-8e13-b1281ab71d09.png" width="400em" />
+
+### Day 8-16: July 3-10, 2022
+**Project:**   
+
+- ReChain
+
+**Progress:**    
+
+- Participated in Global Hack Week 2023: INIT
+- Practiced problem solving and competitive programming
+- Made some improvements, fixed some bugs and added some features in the ReChain project
+
+**Thoughts:** It was a wonderful week. I learned a lot of cool technologies and had fun
+
+**Score:**     
+<img src="https://user-images.githubusercontent.com/37080003/178494914-2b50c953-dac7-4af6-a4c7-c0d120a46944.png" width="400em" />
+
+
 ### Day 7: June 2, 2022
 **Progress:**    
 
@@ -79,13 +108,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 2: June 27, 2022
 **Progress:**
 
-- Solved some competitve programming problems
+- Solved some competitive programming problems
 
 ### Day 1: June 26, 2022
 **Project:**   
 
 - 100DaysOfCode Log Website
-- Solved some competitve programming problems
+- Solved some competitive programming problems
 
 **Progress:**
 
