@@ -49,11 +49,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 21: July 15, 2022
+**Progress:**    
+
+- Completed week 5 and 6 of It for Automation
+
+**Thoughts:** very excited to finish this specialization
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/179116038-c031c85e-7ca1-464f-b9e7-a15d598ee19d.png" width="400em" />
+
 
 ### Day 20: July 14, 2022
 **Progress:**    
 
 - Completed week 3 and 4 in course 2 of TensorFlow for developers
+- Practiced problem solving
 
 **Thoughts:** 2 more courses to go (to finish the tensorflow specialization)
 
