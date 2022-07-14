@@ -19,7 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [ ] [Current: 3] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current: 4] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Practice touch typing (Goal: 80 WPM)
 - [X] Participate in Global Hack week INIT
 
@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 18: July 1, 2022
+### Day 20: July 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,6 +49,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 20: July 14, 2022
+**Progress:**    
+
+- Completed week 3 and 4 in course 2 of TensorFlow for developers
+
+**Thoughts:** 2 more courses to go (to finish the tensorflow specialization)
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/179097664-8dd71e50-6b16-46f6-8379-7dcb1c699b89.png" width="400em">
 
 ### Day 19: July 13, 2022
 **Progress:**    
