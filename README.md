@@ -19,7 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [ ] [Current: 4] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current: 5] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Practice touch typing (Goal: 80 WPM)
 - [X] Participate in Global Hack week INIT
 
