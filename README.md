@@ -49,6 +49,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 22: July 16, 2022
+**Progress:**    
+
+- Completed week 4 and 5 of course 1 of Data Analysis specialization
+- Praticed problem solving
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/179307655-e8e93624-db7d-4a76-ab1d-f17b231ed29d.png" width="400em" />
+
+
 ### Day 21: July 15, 2022
 **Progress:**    
 
@@ -69,7 +80,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 2 more courses to go (to finish the tensorflow specialization)
 
 **Certificate:**    
-<img src="https://user-images.githubusercontent.com/37080003/179097664-8dd71e50-6b16-46f6-8379-7dcb1c699b89.png" width="400em">
+<img src="https://user-images.githubusercontent.com/37080003/179097664-8dd71e50-6b16-46f6-8379-7dcb1c699b89.png" width="400em" />
 
 ### Day 19: July 13, 2022
 **Progress:**    
