@@ -50,10 +50,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 23: July 17, 2022
+**Progress:**    
+
+- Completed week 1 and 2 in course 2 of It for Automation
+- Praticed problem solving
+
+
 ### Day 22: July 16, 2022
 **Progress:**    
 
-- Completed week 4 and 5 of course 1 of Data Analysis specialization
+- Completed week 4 and 5 in course 1 of Data Analysis specialization
 - Praticed problem solving
 
 **Certificate:**    
@@ -63,7 +70,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 21: July 15, 2022
 **Progress:**    
 
-- Completed week 5 and 6 of It for Automation
+- Completed week 5 and 6 in course 1 of It for Automation
 
 **Thoughts:** very excited to finish this specialization
 
