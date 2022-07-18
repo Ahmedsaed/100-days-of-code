@@ -50,6 +50,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 24: July 18, 2022
+**Progress:**    
+
+- Completed week 3 in course 2 of It for Automation
+- Gave a session about CPP STLs 
+- Practicied problem solving 
+
+
 ### Day 23: July 17, 2022
 **Progress:**    
 
