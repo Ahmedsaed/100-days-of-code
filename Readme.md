@@ -50,26 +50,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
-### Day 24: July 18, 2022
+### Day 25: July 19, 2022
 **Progress:**    
 
 - Completed week 3 in course 2 of It for Automation
+- Practiced problem solving  
+
+### Day 24: July 18, 2022
+**Progress:**    
+
+- Made some progress in week 3 in course 2 of It for Automation
 - Gave a session about CPP STLs 
-- Practicied problem solving 
+- Practiced problem solving 
 
 
 ### Day 23: July 17, 2022
 **Progress:**    
 
 - Completed week 1 and 2 in course 2 of It for Automation
-- Praticed problem solving
+- Practiced problem solving
 
 
 ### Day 22: July 16, 2022
 **Progress:**    
 
 - Completed week 4 and 5 in course 1 of Data Analysis specialization
-- Praticed problem solving
+- Practiced problem solving
 
 **Certificate:**    
 <img src="https://user-images.githubusercontent.com/37080003/179307655-e8e93624-db7d-4a76-ab1d-f17b231ed29d.png" width="400em" />
