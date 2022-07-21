@@ -50,10 +50,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
-### Day 25: July 19, 2022
+### Day 27: July 21, 2022
 **Progress:**    
 
-- Completed week 3 in course 2 of It for Automation
+- Completed week 5 in course 2 of It for Automaion
+
+**Thoughts:** I’m super excited to share that I have been accepted at the MLH Fellowship Prep program for summer 2022 by Major League Hacking!
+
+### Day 25-26: July 19-20, 2022
+**Progress:**    
+
+- Completed week 3 and 4 in course 2 of It for Automation
 - Practiced problem solving  
 
 ### Day 24: July 18, 2022
