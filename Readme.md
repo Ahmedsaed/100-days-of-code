@@ -49,6 +49,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 28: July 22, 2022
+**Progress:**    
+
+- Made some progress in week 6 in course 2 of It for Automation
+- Participated in Data Day Grind III Hackathon by MLH
+
+**Thoughts:** Very Excited to submit the ReChain Project
+
 
 ### Day 27: July 21, 2022
 **Progress:**    
