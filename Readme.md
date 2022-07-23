@@ -19,7 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [ ] [Current: 6] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [ ] [Current: 7] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Practice touch typing (Goal: 80 WPM)
 - [X] Participate in Global Hack week INIT
 
@@ -52,11 +52,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 28: July 22, 2022
 **Progress:**    
 
-- Made some progress in week 6 in course 2 of It for Automation
+- Completed week 6 and 7 in course 2 of It for Automation
 - Participated in Data Day Grind III Hackathon by MLH
+- Made some Bug Fixes and improvements and added new features in The ReChain Project 
 
-**Thoughts:** Very Excited to submit the ReChain Project
+**Thoughts:** Very Excited to submit the ReChain Project     
 
+**Certificate:**     
+<img src="https://user-images.githubusercontent.com/37080003/180617118-eb512a42-4326-484b-b8ca-1d3f9ce9667d.png" width="400em" />
 
 ### Day 27: July 21, 2022
 **Progress:**    
