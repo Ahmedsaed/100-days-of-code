@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 2: July 2, 2022
+### Day 3: July 2, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,11 +49,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
-
-### Day 29: July 23, 2022
+ 
+### Day 30: July 24, 2022
 **Progress:**    
 
-- Completed week 1 and 2 in course 3 of it for automation
+- Completed week 2 in course 3 of it for Automation
+
+
+### Day 29: July 23, 2022
+**Project:**
+
+- ReChain
+
+**Progress:**    
+
+- Completed week 1 in course 3 of it for automation
 - Made some Bug Fixes and improvements and added new features in The ReChain Project 
 
 
