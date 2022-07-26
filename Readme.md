@@ -49,6 +49,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 31-32: July 25-26, 2022
+**Progress:**    
+
+- Completed week 3 and 4 in course 3 of It for Automation 
+- Practiced Problem solving
+
+**Thoughts:** I am excited to share that I got accepted in AWS AI programming using python scholarship and SIC IV-Artificial Intelligence Course
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/181244787-0894da34-8d87-4c33-baec-ae475e51ffc2.png" width="400em" />
  
 ### Day 30: July 24, 2022
 **Progress:**    
@@ -81,7 +92,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 27: July 21, 2022
 **Progress:**    
 
-- Completed week 5 in course 2 of It for Automaion
+- Completed week 5 in course 2 of It for Automaton
 
 **Thoughts:** I’m super excited to share that I have been accepted at the MLH Fellowship Prep program for summer 2022 by Major League Hacking!
 
