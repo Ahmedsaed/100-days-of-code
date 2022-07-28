@@ -49,6 +49,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+<!-- 
+### Day 3: July 2, 2022
+**Project:**   
+
+**Progress:**    
+
+-
+
+**Thoughts:**
+
+**Link to Work:**    
+-->
+
+
+### Day 33-34: July 27-28, 2022
+**Progress:**    
+
+- Completed week 1 and 2 in course 3 of Tensorflow For Developers specialization
+- Practiced problem solving  
+
 
 ### Day 31-32: July 25-26, 2022
 **Progress:**    
