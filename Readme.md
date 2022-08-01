@@ -63,6 +63,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 35-37: July 29-31, 2022
+**Project:**   
+
+- Presentation Gallery
+
+**Progress:**    
+
+- Update data in Presentation Gallery
+- Completed course 3 of Tensorflow For Developers specialization 
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/182405237-5aba9ec6-3254-4b1e-85f3-004ca50f8063.png" width="400em" />
+
+
 ### Day 33-34: July 27-28, 2022
 **Progress:**    
 
