@@ -19,7 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - [ ] Complete as many coding challenges as possible: 
     - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [ ] [Current: 7] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
+- [X] [Current: 9] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [ ] Practice touch typing (Goal: 80 WPM)
 - [X] Participate in Global Hack week INIT
 
@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 3: July 2, 2022
+### Day 3: Aug 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,18 +49,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
-<!-- 
-### Day 3: July 2, 2022
+
+### Day 38-39: Aug 1-2, 2022
 **Project:**   
+
+- MLH Prep Portfolio 
 
 **Progress:**    
 
--
+- Completed Course 4 (the final one) of Tensorflow For Developers specialization
+- Attended the MLH fellowship prep program and started working on MLH Prep Portfolio
+- Fixed a bug in MLH Prep Portfolio
 
-**Thoughts:**
+**Thoughts:** The prep program is very useful and I really recommend it to anyone who wants to learn new technologies and make new connections  
 
-**Link to Work:**    
--->
+**Certificates:**    
+<img src="https://user-images.githubusercontent.com/37080003/182639491-1423c384-249e-43e5-a077-2647a2731b22.png" width="400em" />
+<img src="https://user-images.githubusercontent.com/37080003/182639573-e1ea8631-4746-479c-ab57-ea13015cb0c2.png" width="400em" />
 
 
 ### Day 35-37: July 29-31, 2022
