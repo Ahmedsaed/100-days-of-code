@@ -49,6 +49,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 40-44: Aug 3-7, 2022
+**Project:**   
+
+- MLH Prep Portfolio
+
+**Progress:**    
+
+- Made a lot of improvements to the project, resolved a lot of issues and opened a ton of PRs
+
+**Thoughts:** I really like the MLH fellowship program, I like the idea of working in teams the most 
+
+**Link to Work:**    
+- [MLH Fellowship Prep Portofilio Website](https://mlh-fellowship.github.io/prep-portfolio-22.AUG.PREP.2/)
+- [MLH Fellowship Prep Portofilio Repo](https://github.com/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2)
+
 
 ### Day 38-39: Aug 1-2, 2022
 **Project:**   
