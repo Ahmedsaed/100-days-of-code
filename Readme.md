@@ -48,6 +48,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+### Day 45-56: Aug 8-19, 2022
+**Project:**   
+
+- MLH Prep Portfolio
+- MLH Prep Project: Whether App
+
+**Progress:**    
+
+- Made a lot of improvements to the project, resolved a lot of issues and opened a ton of PRs (check my github)
+
+**Thoughts:** I had a lot of fun working with amazing fellows all over the world 
+
+**Link to Work:**
+- [MLH Fellowship Prep Project Website](https://mlh-fellowship.github.io/prep-project-22.AUG.PREP.2)
+- [MLH Fellowship Prep Project Repo](https://github.com/MLH-Fellowship/prep-project-22.AUG.PREP.2)
+- [MLH Fellowship Prep Portfolio Website](https://mlh-fellowship.github.io/prep-portfolio-22.AUG.PREP.2)
+- [MLH Fellowship Prep Portfolio Repo](https://github.com/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2)
 
 ### Day 40-44: Aug 3-7, 2022
 **Project:**   
@@ -56,13 +73,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**    
 
-- Made a lot of improvements to the project, resolved a lot of issues and opened a ton of PRs
+- Made a lot of improvements to the project, resolved a lot of issues and opened a ton of PRs (check my github)
 
 **Thoughts:** I really like the MLH fellowship program, I like the idea of working in teams the most 
 
 **Link to Work:**    
-- [MLH Fellowship Prep Portofilio Website](https://mlh-fellowship.github.io/prep-portfolio-22.AUG.PREP.2/)
-- [MLH Fellowship Prep Portofilio Repo](https://github.com/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2)
+- [MLH Fellowship Prep Portfolio Website](https://mlh-fellowship.github.io/prep-portfolio-22.AUG.PREP.2/)
+- [MLH Fellowship Prep Portfolio Repo](https://github.com/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2)
 
 
 ### Day 38-39: Aug 1-2, 2022
