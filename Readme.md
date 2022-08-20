@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 3: Aug 1, 2022
+### Day 4: Aug 2, 2022
 **Project:**   
 
 **Progress:**    
@@ -48,6 +48,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 57: Aug 20, 2022
+**Progress:**    
+
+- Attended SIC Lecture 
+- Practicing problem solving for ECPC
+
 ### Day 45-56: Aug 8-19, 2022
 **Project:**   
 
