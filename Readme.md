@@ -49,6 +49,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 59: Aug 22, 2022
+**Progress:**    
+
+- Attended SIC Lecture (Statistics & Probability)
+- Practiced problem solving for ECPC
+
 ### Day 58: Aug 21, 2022
 **Progress:**    
 
@@ -57,7 +63,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 57: Aug 20, 2022
 **Progress:**    
 
-- Attended SIC Lecture 
+- Attended SIC Lecture (Statistics & Probability)
 - Practiced problem solving for ECPC
 
 ### Day 45-56: Aug 8-19, 2022
@@ -65,6 +71,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 - MLH Prep Portfolio
 - MLH Prep Project: Whether App
+- Attended multiple SIC lectures
 
 **Progress:**    
 
