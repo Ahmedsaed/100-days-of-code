@@ -49,6 +49,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 61: Aug 24, 2022
+**Progress:**    
+
+- Attended SIC Lecture 
+- Practiced problem solving for ECPC
 
 ### Day 60: Aug 23, 2022
 **Progress:**    
