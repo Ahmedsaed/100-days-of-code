@@ -44,10 +44,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 -
 
-**Thoughts:**
+**Thoughts:** 
 
 **Link to Work:**    
 -->
+
+### Day 62-63: Aug 25-26, 2022
+**Progress:**    
+
+- Made improvements to the github profile
+- Practiced problem solving for ECPC
+- Prepared for ECPC
+
+**Thoughts:** 26 Aug, is the day before the competition. Very Excited
 
 ### Day 61: Aug 24, 2022
 **Progress:**    
