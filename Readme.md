@@ -49,6 +49,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 64: Aug 27, 2022
+
+**Thoughts:** Today is the day, today I will be competing with the top 10% of all egypt in the ECPC (Egyptian Collegiate Programming Context)
+
+I don't expect to achieve a lot since I am participating for the first time but I think it's a great opportunity 
+
+**Certificate:**   
+<img src="https://user-images.githubusercontent.com/37080003/187507234-c1888a7f-122f-49b7-9971-0ecaeb91cc52.png" width="400em" />    
+<img src="https://user-images.githubusercontent.com/37080003/187507056-20686759-219c-45b1-b06b-1d742607cbeb.png" width="400em" />    
+
 ### Day 62-63: Aug 25-26, 2022
 **Progress:**    
 
