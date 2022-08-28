@@ -49,6 +49,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 65: Aug 28, 2022
+**Progress:**    
+
+- Attended SIC Lecture (Data Visualization)
 
 ### Day 64: Aug 27, 2022
 
