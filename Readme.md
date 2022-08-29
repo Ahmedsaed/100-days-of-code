@@ -49,10 +49,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
-### Day 65: Aug 28, 2022
+### Day 66: Aug 29, 2022
 **Progress:**    
 
 - Attended SIC Lecture (Data Visualization)
+- Attended Udacity connect session (Python for AI)
+
+### Day 65: Aug 28, 2022
+**Progress:**    
+
+- Attended SIC Lecture (Pandas and NumPy)
 
 ### Day 64: Aug 27, 2022
 
