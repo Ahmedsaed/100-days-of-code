@@ -49,6 +49,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 67: Aug 30, 2022
+**Progress:**    
+
+- Participated in Google kick start coding practice
+- Read some articles about machine learning
+
 ### Day 66: Aug 29, 2022
 **Progress:**    
 
