@@ -49,6 +49,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 68: Aug 31, 2022
+**Progress:**    
+
+- Attended SIC lecture (Linear regression)
+- Submitted a notebook to kaggle for the first time
+
+**Notebook Link:**  
+[Linear Regression](https://www.kaggle.com/code/ahmedsaed26/linear-regression)
+
 ### Day 67: Aug 30, 2022
 **Progress:**    
 
