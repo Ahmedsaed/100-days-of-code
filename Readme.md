@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 <!-- 
-### Day 6: Aug 2, 2022
+### Day 6: Sep 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -48,6 +48,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 69: Sep 1, 2022
+**Project:**   
+
+- Image classifier - AWS scholarship
+
+**Progress:**    
+
+- Attended connect session - AWS scholarship
+- Practiced problem solving
 
 ### Day 68: Aug 31, 2022
 **Progress:**    
