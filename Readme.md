@@ -36,8 +36,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [ ] Create the 2023 "Happy new Year" Script
 
 ## Code Log
+
 <!-- 
-### Day 6: Sep 1, 2022
+### Day 7: Sep 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,6 +50,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 70: Sep 2, 2022
+**Progress:**    
+
+- Made some progress in IT for automation - Google scholarship
+- Practiced problem solving
 
 ### Day 69: Sep 1, 2022
 **Project:**   
