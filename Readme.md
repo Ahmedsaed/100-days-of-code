@@ -50,6 +50,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 71: Sep 3, 2022
+**Project:**   
+
+- Predicting california housing prices - SIC
+
+**Progress:**    
+
+- Attended SIC lecture (Regression Evaluation)
+- Made improvements to a netbook on kaggle
+
+**Notebook Link:**  
+[Linear Regression](https://www.kaggle.com/code/ahmedsaed26/linear-regression)
+
 ### Day 70: Sep 2, 2022
 **Progress:**    
 
@@ -67,6 +80,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Practiced problem solving
 
 ### Day 68: Aug 31, 2022
+**Project:**   
+
+- Predicting california housing prices - SIC
+
 **Progress:**    
 
 - Attended SIC lecture (Linear regression)
