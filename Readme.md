@@ -50,6 +50,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 72: Sep 4, 2022
+**Progress:**    
+
+- Made some progress in AI programming with python - AWS scholarship 
+- Made some progress in IT for automation - Google scholarship
+
 ### Day 71: Sep 3, 2022
 **Project:**   
 
