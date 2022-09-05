@@ -50,6 +50,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 73: Sep 5, 2022
+**Project:**   
+
+- Predict Airline passenger satisfaction - SIC
+
+**Progress:**    
+
+- Attended SIC lecture (Logistic regression and KNN)
+- Submitted a notebook to kaggle and got a bronze medal 
+
+**Notebook Link:**  
+[96.4% Accuracy, 12 Classification models, EDA](https://www.kaggle.com/code/ahmedsaed26/96-4-accuracy-12-classification-models-eda)
 
 ### Day 72: Sep 4, 2022
 **Progress:**    
