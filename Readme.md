@@ -50,6 +50,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 74: Sep 6, 2022
+**Progress:**    
+
+- Made some progress in IT for automation - Google scholarship
+- Made some progress in Unlocking Information Security I course on edx
+- Practiced problem solving
+
+
 ### Day 73: Sep 5, 2022
 **Project:**   
 
