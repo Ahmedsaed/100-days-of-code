@@ -51,6 +51,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 75: Sep 7, 2022
+**Project:**   
+
+- Predict Airline passenger satisfaction - SIC
+
+**Progress:**    
+
+- Attended SIC lecture (Decision Tree and random forest)
+- Made improvements and added more models to a notebook on kaggle 
+
+**Notebook Link:**  
+[96.4% Accuracy, 12 Classification models, EDA](https://www.kaggle.com/code/ahmedsaed26/96-4-accuracy-12-classification-models-eda)
+
 ### Day 74: Sep 6, 2022
 **Progress:**    
 
