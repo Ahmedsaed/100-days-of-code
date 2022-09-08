@@ -51,6 +51,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 76: Sep 8, 2022
+**Progress:**    
+
+- Made some progress in Unlocking Information Security I course on edx
+- Made some progress in AI programming with python - AWS scholarship
+- Practiced problem solving
+
 ### Day 75: Sep 7, 2022
 **Project:**   
 
