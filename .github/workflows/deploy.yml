@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "weblog" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "weblog" ]
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
     - name: Set up Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        cache-dependency-path: './react-log/package-lock.json'
+        cache-dependency-path: 'package-lock.json'
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
 
@@ -38,18 +38,13 @@ jobs:
     
     - name: Install dependencies
       if: steps.cache.outputs.cache-hit != 'true'
-      run: |
-        cd react-log
-        npm ci --ignore-scripts
+      run: npm ci --ignore-scripts
 
     - name: Build
-      run: |
-        cd react-log
-        npm run build
+      run: npm run build
       
     - name: Deploy
       run: |
-        cd react-log
         git config --global user.name $user_name
         git config --global user.email $user_email
         git remote set-url origin https://${github_token}@github.com/${repository}
