@@ -50,6 +50,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 79: Sep 11, 2022
+**Progress:**    
+
+- Participated in Global Hack Week by MLH
+- Made some progress in "Learning how to learn" course
+- Made some progress in Unlocking Information Security I course on edx
+- Practiced problem solving
+
 ### Day 78: Sep 10, 2022
 **Project:**    
 
@@ -67,7 +75,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 77: Sep 9, 2022
 **Progress:**    
 
-- Made some progress in Unlocking Information Security I course on edx
+- Made some progress in "Learning how to learn" course  
 - Made some progress in AI programming with python - AWS scholarship
 - Made some progress in IT for automation - Google scholarship
 
