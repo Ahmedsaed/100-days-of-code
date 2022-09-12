@@ -38,7 +38,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Code Log
 
 <!-- 
-### Day 7: Sep 1, 2022
+### Day 8: Sep 1, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,6 +49,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 80: Sep 12, 2022
+**Progress:**    
+
+- Participated in Global Hack Week by MLH
+- Made some progress in "Learning how to learn" course
+- Made some progress in AI programming with python - AWS scholarship
+- Attended connect session - AWS scholarship
 
 ### Day 79: Sep 11, 2022
 **Progress:**    
