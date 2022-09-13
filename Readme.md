@@ -51,13 +51,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
-### Day 80: Sep 12, 2022
+### Day 81: Sep 13, 2022
 **Progress:**    
 
 - Participated in Global Hack Week by MLH
 - Made some progress in "Learning how to learn" course
 - Made some progress in AI programming with python - AWS scholarship
 - Attended connect session - AWS scholarship
+
+### Day 80: Sep 12, 2022
+**Project:**    
+
+- Network Intrusion Detection - SIC
+
+**Progress:**    
+
+- Attended SIC lecture (SVM & Naive-Base)
+- Submitted a notebook to kaggle 
+- Participated in Global Hack Week by MLH
+
+**Notebook Link:**  
+[99.6% Accuracy, Network Intrusion Detection](https://www.kaggle.com/code/ahmedsaed26/99-6-accuracy-network-intrusion-detection)
 
 ### Day 79: Sep 11, 2022
 **Progress:**    
