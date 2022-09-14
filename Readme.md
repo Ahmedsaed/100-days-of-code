@@ -50,6 +50,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 82: Sep 14, 2022
+**Project:**    
+
+- Network Intrusion Detection - SIC
+
+**Progress:**    
+
+- Attended SIC lecture (Evaluation and Model Selection)
+- Made some improvements to a notebook on kaggle 
+- Participated in Global Hack Week by MLH
+- Made some progress in "Learning how to learn" course
+
+**Notebook Link:**  
+[99.6% Accuracy, Network Intrusion Detection](https://www.kaggle.com/code/ahmedsaed26/99-6-accuracy-network-intrusion-detection)
 
 ### Day 81: Sep 13, 2022
 **Progress:**    
