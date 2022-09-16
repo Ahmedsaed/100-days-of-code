@@ -50,6 +50,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 84: Sep 16, 2022
+**Progress:**    
+
+- Participated in Global Hack Week by MLH
+- Made some progress in AI programming with python - AWS scholarship
+- Made some progress in IT for automation - Google scholarship
+
 ### Day 83: Sep 15, 2022
 **Progress:**    
 
