@@ -50,17 +50,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 86: Sep 18, 2022
+**Progress:**    
+
+- Participated in Google Kick Start practice session
+- Made some progress in "Learning how to learn" course
 
 ### Day 85: Sep 17, 2022
-**Project:**   
+**Project:**    
+
+- Job Description Web Scraping - SIC
 
 **Progress:**    
 
--
+- Participated in Global Hack Week by MLH
+- Attended SIC lecture (Web Scraping)
 
-**Thoughts:** 
-
-**Link to Work:**    
+**Notebook Link:**  
+[Job Offers](https://github.com/Ahmedsaed/SIC-AI-ML-Training/blob/master/Web%20Scraping/job%20offers.ipynb)
 
 ### Day 84: Sep 16, 2022
 **Progress:**    
