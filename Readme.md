@@ -50,6 +50,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 87: Sep 19, 2022
+**Progress:**    
+
+- Made improvements to the SIC - Web Scraping task
+- Attended SIC lecture (Text Manipulation)
+- Made some progress in AI programming with python - AWS scholarship
+
 ### Day 86: Sep 18, 2022
 **Progress:**    
 
