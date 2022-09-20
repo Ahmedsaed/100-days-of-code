@@ -51,6 +51,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 8: Sep 1, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
+**Progress:**    
+
+- Made some progress in IT for automation - Google scholarship
+- Attended Climathon2022 2nd Stage Shortlisted Announcement Webinar
+
+**Event:** Wow, I qualified for Climathon 2022 from the second filtration phase. I am very excited to compete at the finale
+
+**Filtration Results:** My team name is MUSTIANS
+<img src="https://user-images.githubusercontent.com/37080003/194290523-8586b36a-c18f-4682-b9bc-6e9282baadd8.png" width="400em" />
+
+
 ### Day 87: Sep 19, 2022
 **Progress:**    
 
@@ -59,8 +75,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Made some progress in AI programming with python - AWS scholarship
 
 ### Day 86: Sep 18, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
 **Progress:**    
 
+- Wrote a Business plan for project submission for Climathon 2022 Clean Energy Theme   
 - Participated in Google Kick Start practice session
 - Made some progress in "Learning how to learn" course
 
