@@ -50,8 +50,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 89-90: Sep 21-22, 2022
+**Progress:**    
 
-### Day 8: Sep 1, 2022
+- Attended SIC lecture (KMeans & DBSCAN)
+- Attended Climathon AWS Advanced Technical Workshop - Day 1
+- Attended Climathon AWS Advanced Technical Workshop - Day 2
+- Made Improvements to the SIC - Web scraping task 
+
+### Day 88: Sep 20, 2022
 **Project:**   
 
 - Smart University - IoT Project
