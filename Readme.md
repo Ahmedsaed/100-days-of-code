@@ -38,7 +38,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Code Log
 
 <!-- 
-### Day 8: Sep 1, 2022
+### Day 9: Sep 2, 2022
 **Project:**   
 
 **Progress:**    
@@ -49,6 +49,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**    
 -->
+
+
+### Day 91: Sep 23, 2022
+**Project:** 
+
+- Smart University - IoT Project
+
+**Progress:**    
+
+- Attended a workshop for leadership skills by GDSC MUST
+- Made more research in IoT and embedded systems to prepare for Climathon 2022
+
+**Certificate:**    
+<img src="https://user-images.githubusercontent.com/37080003/194296604-83251b11-a8a7-447f-bbde-0ac07bf9c828.png" width="400em" />
 
 ### Day 89-90: Sep 21-22, 2022
 **Progress:**    
