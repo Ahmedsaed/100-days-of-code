@@ -51,6 +51,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 92: Sep 24, 2022
+**Progress:**    
+
+- Attended SIC lecture (Time Series Analysis)
+
+**Thoughts:** I very excited as I am preparing for traveling to the dorms for the Climathon 2022
+
 ### Day 91: Sep 23, 2022
 **Project:** 
 
