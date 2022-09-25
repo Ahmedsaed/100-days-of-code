@@ -51,6 +51,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 
+### Day 93: Sep 25, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
+**Progress:**    
+
+- Meet new people and made some awesome connections
+- Learned more about the climate change and the problems that we are facing 
+
+
 ### Day 92: Sep 24, 2022
 **Progress:**    
 
