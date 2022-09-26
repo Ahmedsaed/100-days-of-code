@@ -50,6 +50,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+### Day 94: Sep 26, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
+**Progress:**    
+
+- Made parts of the IoT architecture on AWS cloud services
+
+**Thoughts:** Today, I met Mr. Fawad Gul - He is a Technical Program Manager at AWS - and he gave us some useful insights about AWS and IoT 
+
 
 ### Day 93: Sep 25, 2022
 **Project:**   
