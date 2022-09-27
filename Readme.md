@@ -50,6 +50,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 95: Sep 27, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
+**Progress:**    
+
+- Made the rest of the IoT architecture on AWS cloud services
+
+**Thoughts:** 
+
+**Link to Work:**    
+
 ### Day 94: Sep 26, 2022
 **Project:**   
 
