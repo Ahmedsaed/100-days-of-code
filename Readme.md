@@ -50,6 +50,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**    
 -->
 
+
+### Day 97: Sep 29, 2022
+**Project:**   
+
+- Smart University - IoT Project
+
+**Event:** Today is the closing ceremony where they are going to announce the winners
+
+**Thoughts:** I am super happy as my team ranked the 3rd in the Climathon 2022 and I received a bronze medal, certificate and a prize 
+
+**Photos:**   
+<img src="https://user-images.githubusercontent.com/37080003/194305250-a34da6c1-713e-431e-b336-f3bbd4d67667.jpeg" width="400em" />
+
+<img src="https://user-images.githubusercontent.com/37080003/194305431-39e03666-ee49-4b66-aa70-67c076b11065.jpeg" width="400em" />
+
+
 ### Day 96: Sep 28, 2022
 **Project:**   
 
