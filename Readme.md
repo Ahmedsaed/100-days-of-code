@@ -37,19 +37,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Code Log
 
-<!-- 
-### Day 9: Sep 2, 2022
-**Project:**   
-
+### Day 99-100: October 1-2, 2022
 **Progress:**    
 
--
+- Watched the recordings of the SIC lectures (That I missed while I was busy at the Climathon 2022)
+- Made some progress in IT for automation - Google scholarship
+- Made some progress in AI programming with python - AWS scholarship
 
-**Thoughts:** 
-
-**Link to Work:**    
--->
-
+**The End:**  
+This round was amazing, full of interesting events. I learned a lot and made tons of connections with amazing people   
 
 ### Day 98: Sep 30, 2022
 **Thoughts:** I was too tired that day because of the Climathon 2022 so I tool it as a break
