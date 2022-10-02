@@ -12,28 +12,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [ ] Code daily (At least 1 hour a day)
-- [ ] Create a portfolio
+- [X] Code daily (At least 1 hour a day)
 
 ### Secondary Goals & Resources
 
-- [ ] Complete as many coding challenges as possible: 
-    - [ ] [Advent of Code 2015](https://adventofcode.com/2015)
-- [X] [Current: 9] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
-- [ ] Practice touch typing (Goal: 80 WPM)
+- [X] Complete as many coding challenges as possible
+- [X] Participated in Climathon 2022 and won a bronze medal
+- [X] [Completed: 9] Complete as many courses: Coursera, Udemy, Udacity, Scimba ...
 - [X] Participate in Global Hack week INIT
-
-## Projects and Ideas
-
-- [ ] Cyberpunk-like terminal screen animation
-- [ ] do something cool using SonicPy & RockStar programming language
-- [ ] Game of life Visualizer
-- [ ] Personal Portfolio
-- [ ] Create a PWA app
-- [ ] Create a Chrome extension (to stay Focused and prevent Distraction)
-- [ ] Create a simulation of the N-Body problem (Using python)
-- [ ] Create something cool using Desmos
-- [ ] Create the 2023 "Happy new Year" Script
 
 ## Code Log
 
